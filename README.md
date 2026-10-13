@@ -40,10 +40,10 @@ View the full design board:https://www.figma.com/design/ljXQIgbyMKNj0sklyyVdhn/D
  
 Project Panels:
 
-* 01 — Style Tile: View Style Tile :https://github.com/Stewart-boy/Decodelabs-UI-UX-Project-3/blob/2517803b8810af3c25b5104a3737e4fcc4949345/Style%20Tile.png
+* 01 — Style Tile: View Style Tile:https://github.com/Stewart-boy/Decodelabs-UI-UX-Project-3/blob/2517803b8810af3c25b5104a3737e4fcc4949345/Style%20Tile.png
 
-* 02 — Splash Screen: View Splash Screen :https://github.com/Stewart-boy/Decodelabs-UI-UX-Project-3/blob/e4c78e9ea1751a7e6fc7336f4bc900bbb145fe86/Splash%20Screen.png
-* 03 — Product List: View Product List
+* 02 — Splash Screen: View Splash Screen:https://github.com/Stewart-boy/Decodelabs-UI-UX-Project-3/blob/e4c78e9ea1751a7e6fc7336f4bc900bbb145fe86/Splash%20Screen.png
+* 03 — Product List: View Product List:https://github.com/Stewart-boy/Decodelabs-UI-UX-Project-3/blob/4ceedaee7249d2d373f2f34a28a326fa771827a8/Product%20Listings.png
 * 04 — Product Details: View Product Details
 * Project Overview: View Project Overview
 
