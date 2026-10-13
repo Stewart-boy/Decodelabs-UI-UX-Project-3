@@ -12,8 +12,7 @@ Completed as Project 3 during my DecodeLabs UI/UX Design Internship Program, thi
 
 📦 Project Deliverables
 
-01 — Style Tile:https://github.com/Stewart-boy/Decodelabs-UI-UX-Project-3/blob/2517803b8810af3c25b5104a3737e4fcc4949345/Style%20Tile.png
-
+01 — Style Tile
 Establishes the visual foundation for the product, including:
 
 * Colour palette
@@ -41,7 +40,8 @@ View the full design board:https://www.figma.com/design/ljXQIgbyMKNj0sklyyVdhn/D
  
 Project Panels:
 
-* 01 — Style Tile: View Style Tile
+* 01 — Style Tile: View Style Tile :https://github.com/Stewart-boy/Decodelabs-UI-UX-Project-3/blob/2517803b8810af3c25b5104a3737e4fcc4949345/Style%20Tile.png
+
 * 02 — Splash Screen: View Splash Screen
 * 03 — Product List: View Product List
 * 04 — Product Details: View Product Details
