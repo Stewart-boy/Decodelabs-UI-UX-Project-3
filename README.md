@@ -12,7 +12,7 @@ Completed as Project 3 during my DecodeLabs UI/UX Design Internship Program, thi
 
 📦 Project Deliverables
 
-01 — Style Tile
+01 — Style Tile:https://github.com/Stewart-boy/Decodelabs-UI-UX-Project-3/blob/2517803b8810af3c25b5104a3737e4fcc4949345/Style%20Tile.png
 
 Establishes the visual foundation for the product, including:
 
